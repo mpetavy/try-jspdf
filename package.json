@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.5.1",
     "window": "^4.2.7"
   }
 }
